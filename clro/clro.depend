@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516084379 source:e:\cf\clro\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+
